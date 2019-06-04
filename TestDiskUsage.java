@@ -4,7 +4,7 @@ import java.util.Scanner;
 import static java.io.File.separator;
 
 /**
- * @author Vadim Yastrebov (100908473)
+  * @author Vadim Yastrebov
  * @version 2017.07.05
  */
 public class TestDiskUsage {
